@@ -40,6 +40,7 @@ h4.hellog {
 
 .divhead{
     font-size: 1rem;
+    text-align: center;
     margin: 1.875rem 0rem;
     padding: 0 0.625rem;
   
@@ -64,13 +65,13 @@ h3 {
     border-left: medium outset #2899f5;
     border-radius: 4px;
 }
-pre.Example1 {
+pre.Example1mod {
     padding-left: 10px;
     margin-left: 20px;
     margin-bottom: 30px;
     border-radius: 25px;
     background-color: black;
-    color:white;
+    color:cyan;
     padding-top: 10px;
     
 }
