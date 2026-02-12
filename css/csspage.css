@@ -9,7 +9,7 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 #main-head{
-    color:black;
+    color:gray;
 }
 #main-css{
     margin-top: 5rem;
@@ -25,7 +25,7 @@ h1 {
     font-size: 1rem;
     margin: 1.875rem 0rem;
     padding: 0 0.625rem;
-    
+    text-align: center;
     border-left: medium outset #2899f5;
     border-radius: 4px;
     color: #2899f5;
@@ -43,7 +43,6 @@ h4.hellog {
     text-align: center;
     margin: 1.875rem 0rem;
     padding: 0 0.625rem;
-  
     border-left: medium outset #2899f5;
     border-radius: 4px;
     color: #2899f5;
@@ -67,94 +66,94 @@ h3 {
 }
 pre.Example1mod {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
+    background-color: gray;
     color:cyan;
     padding-top: 10px;
-    
+    width: 800px;
 }
 pre.Example2 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color: gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example3 {
     padding-left: 10px;
-    margin-left: 20px;
+    margin: 30px 4%;
     margin-bottom: 30px;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color: gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example4 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color: gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example5 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color: gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example6 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color: gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example7 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color:gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example8 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color:white;
+    background-color:gray;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example9 {
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    background-color: black;
-    color: white;
+    background-color:grey;
+    color:cyan;
     padding-top: 10px;
+    width: 800px;
 }
 pre.Example10{
     padding-left: 10px;
-    margin-left: 20px;
-    margin-bottom: 30px;
+    margin: 30px 4%;
     border-radius: 25px;
-    color:white;
-    background-color: black;
+    color:cyan;
+    background-color: gray;
     padding-top: 10px;
+    width: 800px;
 }
 pre {
     font-size: large;
